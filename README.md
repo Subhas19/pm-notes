@@ -1,6 +1,5 @@
 # pm-notes
 44-618-D02 PM4
-https://www.digite.com/agile/agile-methodology/
 Product life cycle 
 -> The Systems Development Life Cycle (SDLC) is a framework for describing the phases of developing information systems
 
@@ -13,3 +12,5 @@ Agile Methodology
   3.Customer collaboration over contract negotiation 
   4.Responding to change over following a plan
   
+Click the below link for more info:
+https://www.digite.com/agile/agile-methodology/
