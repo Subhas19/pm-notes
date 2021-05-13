@@ -1,10 +1,14 @@
 
 # pm-notes
 44-618-D02 PM4
-Product life cycle 
+
+Product life cycle
+
 -> The Systems Development Life Cycle (SDLC) is a framework for describing the phases of developing information systems
 
 Agile Methodology
+
+
 =>The Agile methodology is a collection of principles that value adaptability and flexibility. Agile  aims to provide better responsiveness to changing business needs and therefore focuses on enabling teams to deliver in workable increments.
 => Agile today means using an approach where requirements and solutions evolve through collaboration
 => we are covering better ways of developing software by doing it and helping others to do.Through this work we have come to value :
