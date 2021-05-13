@@ -10,11 +10,19 @@ Agile Methodology
 
 
 =>The Agile methodology is a collection of principles that value adaptability and flexibility. Agile  aims to provide better responsiveness to changing business needs and therefore focuses on enabling teams to deliver in workable increments.
+
+
 => Agile today means using an approach where requirements and solutions evolve through collaboration
+
+
 => we are covering better ways of developing software by doing it and helping others to do.Through this work we have come to value :
+ 
  . Individuals and interactions over processes and tools
- . Working software over comprehensive documentation 
- . Customer collaboration over contract negotiation 
+ 
+ . Working software over comprehensive documentation
+ 
+ . Customer collaboration over contract negotiation
+ 
  . Responding to change over following a plan
 
   
