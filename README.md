@@ -13,9 +13,12 @@ Agile Methodology
 => Agile today means using an approach where requirements and solutions evolve through collaboration
 => we are covering better ways of developing software by doing it and helping others to do.Through this work we have come to value :
   1. Individuals and interactions over processes and tools
-  2. Working software over comprehensive documentation
-  3.Customer collaboration over contract negotiation 
-  4.Responding to change over following a plan
+  2. 
+  3. Working software over comprehensive documentation
+  4. 
+  5.Customer collaboration over contract negotiation
+  6. 
+  7.Responding to change over following a plan
 
   ![agile pic](https://user-images.githubusercontent.com/73435520/118069069-1c242180-b369-11eb-95d7-eaef3d5bcc50.png)
 Click the below link for more info:
