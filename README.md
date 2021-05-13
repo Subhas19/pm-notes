@@ -12,6 +12,8 @@ Agile Methodology
   2. Working software over comprehensive documentation
   3.Customer collaboration over contract negotiation 
   4.Responding to change over following a plan
+
   ![agile pic](https://user-images.githubusercontent.com/73435520/118069069-1c242180-b369-11eb-95d7-eaef3d5bcc50.png)
 Click the below link for more info:
+
 https://www.digite.com/agile/agile-methodology/
